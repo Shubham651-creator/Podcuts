@@ -1,3 +1,3 @@
 # Podcuts
-video podcast editing services website.
-welcome to all listenser!
+Video podcast editing services website.
+Welcome to all listenser!
