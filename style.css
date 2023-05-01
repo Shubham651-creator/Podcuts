@@ -1,3 +1,4 @@
+
 .header-image{
     background-image: url("images/podcuts.jpg");   
     background-position: center;   
@@ -17,10 +18,10 @@
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     left: 10%;
-    top: 30%;
-    width: 300px;
+    top: 20%;
+    width: 600px;
     height: 120px;
-    font-size:xx-large;
+    font-size:xxx-large;
 } 
 .header-content2{
     position: absolute;
@@ -44,10 +45,57 @@
     width: 300px;
     height: 120px;
     font-size:large;
-}  
-.section2{
-    height: 65vh;
+} 
+/* first Section of the body */
+.section1{
+    height: 110vh;
     background-color:beige;
+}
+.sec1-a{
+  /* pading: (top,right, bottom, left) */
+  padding: 10px 100px 10px 100px; 
+  height: 75vh;
+  margin-top: 55px;
+  background-color:bisque;
+}
+.button-red{
+  background-color: red;  
+  opacity: 70%;
+  border: none;
+  border-radius:12px;
+  color: white;
+  padding: 4px 7px;
+  text-align: center;
+  text-decoration:solid; 
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); 
+}
+.button-red2{
+  background-color: red;  
+  opacity: 70%;
+  border: none;
+  border-radius:19px;
+  color: white;
+  padding: 9px 12px;
+  text-align: center;
+  text-decoration:solid; 
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); 
+}
+.header-content4{ 
+  font-style: oblique;  
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size:x-large;
+  padding: 20px;
+} 
+#episode-title{ 
+  margin-left: 100px;
+  margin-right: 660px; 
+  font-size: xx-large;
 }
 #mike-logo{ 
     margin-bottom: 37%; 
@@ -59,6 +107,24 @@
     width: 50px;
     height: 50px;
     margin: 20px 35px 0px -30px;
+}
+#vdo{
+  height: 300px;
+  width: 450px;
+  margin: 10px -1px;
+}
+
+/* make columns for first section */
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
   
 /* add animation in header content css */
