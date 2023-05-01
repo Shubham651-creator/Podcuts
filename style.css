@@ -35,6 +35,8 @@
 }  
 .header-content3{
     position: absolute;
+    transform: scale(0.94);
+  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
     color:rgb(65, 38, 3);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     left: 10%;
