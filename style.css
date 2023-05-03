@@ -48,7 +48,7 @@
 } 
 /* first Section of the body */
 .section1{
-    height: 110vh;
+    height: 90vh;
     background-color:beige;
 }
 .sec1-a{
@@ -86,12 +86,28 @@
   cursor: pointer;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); 
 }
+.button-violet{
+  background-color:rgb(166, 56, 221);
+}
 .header-content4{ 
   font-style: oblique;  
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size:x-large;
   padding: 20px;
 } 
+/* section 2 */
+.section2{
+  background-color:beige;
+  height: 120vh; 
+  align-items: center;
+  padding: 90px; 
+}
+.header-content5{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: x-large;
+  color: aliceblue;
+} 
+
 #episode-title{ 
   margin-left: 100px;
   margin-right: 660px; 
@@ -113,10 +129,34 @@
   width: 450px;
   margin: 10px -1px;
 }
-
+#row1{
+  height: 300px;
+  width: 500px;
+  border-top-left-radius: 70px;
+  padding-bottom: 17px; 
+}
+#row2{
+  height: 200px;
+  width: 500px; 
+}
+#sec2-b{
+  height: 88vh; 
+  margin-left: 20px;
+  background-color: tomato;
+  padding: 50px;
+  padding-top: 140px;
+}
+#sec2-b-a{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: aliceblue;
+}
+#sec2-b-b{
+  padding-top: 10px; 
+  color: aliceblue;
+}
 /* make columns for first section */
 .column {
-  float: left;
+  float:left;
   width: 50%;
 }
 
