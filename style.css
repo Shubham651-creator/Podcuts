@@ -107,6 +107,18 @@
   font-size: x-large;
   color: aliceblue;
 } 
+.header-content6{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+  text-align: center; 
+  padding: 15px;
+} 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
 
 #episode-title{ 
   margin-left: 100px;
@@ -154,10 +166,23 @@
   padding-top: 10px; 
   color: aliceblue;
 }
+
+#sec3-a{
+  height: 200px;
+  width: 250px; 
+  
+}
 /* make columns for first section */
 .column {
   float:left;
   width: 50%;
+}
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+  margin: 0px;  
 }
 
 /* Clear floats after the columns */
