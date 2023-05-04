@@ -120,6 +120,15 @@
   width: 30%;
 }
 
+/* section 4 */
+.section4{
+  background-color:beige;
+  height: 110vh;
+}
+.sec4{
+  padding: 10px 90px 40px 90px;
+}
+
 #episode-title{ 
   margin-left: 100px;
   margin-right: 660px; 
@@ -171,6 +180,10 @@
   height: 200px;
   width: 250px; 
   
+}
+#sec4-a{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: x-large;
 }
 /* make columns for first section */
 .column {
