@@ -4,6 +4,11 @@
     background-position: center;   
     height: 500px; 
 }
+.header-image-about{
+  background-image: url("images/about.jpg");   
+  background-position: center;   
+  height: 500px; 
+}
 .navbar-collapse{
     margin-bottom: 37%; 
 }
@@ -123,14 +128,14 @@
 /* section 4 */
 .section4{
   background-color:beige;
-  height: 110vh;
+  height: 90vh;
 }
 .sec4{
   padding: 10px 90px 40px 90px;
 }
 
 /* footer */
-.fa {
+.fa {   
   padding: 4px;
   font-size: 30px;
   width: 30px;
