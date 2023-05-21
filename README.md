@@ -1,6 +1,5 @@
 # Podcuts
 Video Podcast Editing Services
-Welcome to all listenser!
   
 ## index.html [Home]
 ![i_header](https://github.com/Shubham651-creator/Podcuts/assets/62743290/9d2e3349-6191-437d-9f73-389456ae5300)
