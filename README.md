@@ -1,6 +1,7 @@
 # Podcuts
 Video Podcast Editing Services
-
+Welcome to all listenser!
+  
 ## index.html [Home]
 ![i_header](https://github.com/Shubham651-creator/Podcuts/assets/62743290/9d2e3349-6191-437d-9f73-389456ae5300)
 ![i_section1](https://github.com/Shubham651-creator/Podcuts/assets/62743290/4b76d642-1f31-4421-9727-d3b68c184d83)
@@ -21,5 +22,7 @@ Video Podcast Editing Services
 ## Schedule.html [Schedule call]
 ![s_calender](https://github.com/Shubham651-creator/Podcuts/assets/62743290/3edd8768-5b82-4df6-a53f-00395e13fe88)
 ![s_table](https://github.com/Shubham651-creator/Podcuts/assets/62743290/a8d28d86-9b6d-45fb-85a6-78bddc613988)
- ## blog.html
+## blog.html
  ![blog](https://github.com/Shubham651-creator/Podcuts/assets/62743290/040a09be-1113-457d-ae74-55fbe7f64bf0)
+
+ 
